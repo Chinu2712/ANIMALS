@@ -1,0 +1,38 @@
+body{
+    font-family: 'special Elite', cursive;
+    background: cyan;
+}
+
+.header_div{
+    background: wheat;
+    color:rgb(159, 47, 47);
+}
+
+.header_div p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(84, 57, 57) ;
+    letter-spacing: 1px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:15px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 0px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(84, 115, 218);
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background-color:cyan ;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px;
+}
+
